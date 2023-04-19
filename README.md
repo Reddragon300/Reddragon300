@@ -1,10 +1,11 @@
-
+<html>
+  <head>
 <!---
 Reddragon300/Reddragon300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center"># Welcome to My Github Page! #</h1>
+<h1 align="center"># Welcome to My GitHub Page! #</h1>
 <h2 align="center">Hi 👋, I'm BRANDON.</h2>
 <h3 align="center">I'm a Current Computer Science student.</h3>
 
@@ -16,14 +17,19 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact I Enjoy Fishing !
 
 - 🤝 I’m looking for help with ***Open To Mentorships/Guidance In Anyway.***
-
+<br>
+    <br>
 <h2>- 👨‍💻Some Of My Projects Are Available At: <tab>
+<br>
+  <br>
+
 <a href="https://github.com/Reddragon300?tab=repositories"><img src="https://opensource.com/sites/default/files/lead-images/github-universe.jpg" alt="Git-Repo" style="width:75px;height:55px;"> 
 </a>
 </h2>
-
+<br>
+  
 </body>
-</html>
+
 <p>---</p>
 <h2>📈 My GitHub History!</h2>
 <p><a href="https://github.com/reddragon300"> <img src="https://github-readme-stats.vercel.app/api?username=reddragon300&amp;theme=noctis_minimus&amp;show_icons=true" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddragon300&amp;theme=noctis_minimus&amp;layout=compact" height="180em" /> 
@@ -33,10 +39,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/brandonclaspill)
 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/brandonclaspill" title="LinkedIn">
-        <img src="https://ckeditor.com/apps/ckfinder/userfiles/files/linkedin.png" alt="LinkedIn" style="height:128px; width:128px" /></a>
+              
 </p>
 <p align="left">
      <a href="mailto:claspillb92@gmail.com" title="Gmail">
@@ -46,8 +51,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3> RESUME: https://app.luminpdf.com/viewer/63a824663fabc338a30e791f </h3>
 
-
-<h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
+<br>
+  <br>
+<h2> <p align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h3> </p>
 <p align="left">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -72,3 +78,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center">Made with ❤️ in USA</p>
+</head>
+</html>
