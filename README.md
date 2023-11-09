@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact I Enjoy Fishing !
 
 - 🤝 I’m looking for help with ***Open To Mentorships/Guidance In Anyway.***
+
 <br>
     <br>
 <h2>- 👨‍💻Some Of My Projects Are Available At: <tab>
@@ -37,9 +38,12 @@ You can click the Preview link to take a look at your changes.
 </p>
 <p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" /></p>
 
-
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/brandonclaspill)
+
+<div style="text-align: right;">
+  <a href="https://app.daily.dev/bcbceecee"><img src="https://api.daily.dev/devcards/2683aaefd1bc487289de42ab25ab4046.png?r=li7" width="400" alt="B C (BCeeCee)'s Dev Card"/></a>
+</div>
 
               
 </p>
@@ -50,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3> RESUME: https://app.luminpdf.com/viewer/63a824663fabc338a30e791f </h3>
+</p>
 
 <br>
   <br>
@@ -72,7 +77,6 @@ You can click the Preview link to take a look at your changes.
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/> </a>
-</p>
 
 <br>
 <br>
