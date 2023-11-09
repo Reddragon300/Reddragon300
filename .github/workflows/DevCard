@@ -21,4 +21,3 @@ jobs:
           devcard_id: ${{ secrets.DEVCARD_ID }}
 
 
-          <a href="https://app.daily.dev/bcbceecee"><img src="https://api.daily.dev/devcards/2683aaefd1bc487289de42ab25ab4046.png?r=li7" width="400" alt="B C (BCeeCee)'s Dev Card"/></a>
