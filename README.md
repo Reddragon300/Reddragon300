@@ -41,11 +41,11 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/brandonclaspill)
 
-<div style="text-align: right;">
-  <a href="https://app.daily.dev/bcbceecee"><img src="https://api.daily.dev/devcards/2683aaefd1bc487289de42ab25ab4046.png?r=li7" width="400" alt="B C (BCeeCee)'s Dev Card"/></a>
-</div>
 
-              
+<div style="text-align: right;">
+  <a href="https://app.daily.dev/bcbceecee"><img src="https://github.com/Reddragon300/Reddragon300/blob/main/devcard.svg " width="400" alt="B C (BCeeCee)'s Dev Card"/></a>
+</div>
+            
 </p>
 <p align="left">
      <a href="mailto:claspillb92@gmail.com" title="Gmail">
