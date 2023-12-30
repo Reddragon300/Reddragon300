@@ -3,9 +3,11 @@ name: DevCard
 
 permissions:
   contents: write
-
+# Controls when the workflow will run
 on:
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches:
       - main
@@ -20,3 +22,5 @@ jobs:
         uses: dailydotdev/action-devcard@2.3.1
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+
+
