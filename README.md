@@ -63,11 +63,13 @@
 <p><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer" /></p>
   <h2>Connect with Me:</h2>
 
+- Zoom Meeting: [Join Zoom Meeting](https://us05web.zoom.us/j/7630609399?pwd=ZmRYeDduUzNia0ZJTGgzV0xsbzhnZz09&omn=89653039239)
+- Calendly: [Schedule a Meeting](https://calendly.com/speakwithme-bc157)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/brandonclaspill)
 
 <p align="left">
      <a href="mailto:claspillb92@gmail.com" title="Gmail">
         <img src="https://raw.githubusercontent.com/king-technologies/.github/main/assets/images/gmail.svg" alt="Gmail" width="75" /></a>
 </p>
-
 <p align="center">Made with ❤️ in USA</p>
