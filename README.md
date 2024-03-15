@@ -84,5 +84,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Made with ❤️ in USA</p>
 </head>
 </html>
-<script src="https://tryhackme.com/badge/1579187"></script>
+
 
